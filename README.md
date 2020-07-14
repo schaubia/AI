@@ -1,1 +1,1 @@
-# Beginner-rep
+# Monte Carlo simulation of cell signaling
